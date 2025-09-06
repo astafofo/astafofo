@@ -72,5 +72,5 @@
 
 <p align="center">
   All malware/code is shared for educational and research purposes only.<br>
-  I take no responsibility for misuse. Use at your own risk. 🕵️‍♂️
+  I take no responsibility for misuse. Use at your own risk.
 </p>
