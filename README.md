@@ -17,6 +17,30 @@ Currently, I am expanding my focus to advanced cheat development and in-depth ex
 
 ---
 
+### Tools & Technologies
+
+- IDA Pro, Ghidra, x64dbg, WinDbg  
+- Virtual Machines (VMware, VirtualBox)  
+- Static and Dynamic Analysis Tools  
+- Docker, Git, CI/CD Pipelines
+
+---
+
+### Current Projects
+
+- Developing an open-source cheat framework for Windows games  
+- Analyzing legacy malware samples and documenting their behaviors  
+- Writing tools for automated malware detection and system monitoring
+
+---
+
+### Mission Statement
+
+I aim to deepen the understanding of software at the binary level, preserving computing history while pushing the boundaries of security research.  
+Through responsible disclosure and education, I hope to contribute to a safer, more transparent software ecosystem.
+
+---
+
 ### Professional Contact
 
 - Discord: [astafofo](https://discord.com/users/927023306769588264)  
