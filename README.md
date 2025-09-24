@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media.discordapp.net/attachments/1384935582819418245/1420400558908379186/89901ddeb6f45b244cef5cc99a0148b9.png?ex=68d5429b&is=68d3f11b&hm=3ec59ba47a4a4242cde517d69600ef77345cc212bd13fc1b51f948df74847fac&=&format=webp&quality=lossless&width=1485&height=591" alt="Banner" width="800" />
+</p>
+
 # Hello there 👋
 
 Digital Archivist | Malware Analyst | Reverse Engineer | Game Cheat Developer
