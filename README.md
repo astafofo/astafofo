@@ -49,14 +49,8 @@ Through responsible disclosure and education, I hope to contribute to a safer, m
 
 ### Professional Contact
 
-<p align="center">
-  <a href="https://discord.com/users/927023306769588264" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-astafofo-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <a href="mailto:notrealharly@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-notrealharly@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+- Discord: [astafofo](https://discord.com/users/927023306769588264)  
+- Email: notrealharly@gmail.com
 
 ---
 
