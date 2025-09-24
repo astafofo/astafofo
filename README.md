@@ -1,42 +1,30 @@
 # astafofo
 
-*Digital archivist • Malware analyst • Reverse engineer • Game cheat developer*  
-"Break it. Understand it. Build it better."
+Digital Archivist | Malware Analyst | Reverse Engineer | Game Cheat Developer
+
+I am a dedicated software researcher specializing in the collection and preservation of rare and legacy software.  
+My expertise lies in reverse-engineering complex binaries, analyzing malware behaviors, and developing software that interacts deeply with system internals.  
+Currently, I am expanding my focus to advanced cheat development and in-depth exploration of Windows internals.
 
 ---
 
-### About Me
+### Core Competencies
 
-I am a passionate collector and curator of old and obscure software.  
-I reverse-engineer for fun, study malware behavior, and write code that explores system internals.  
-Recently, I have been focusing more on cheat development and Windows internals.
+- Advanced Reverse Engineering and Binary Analysis  
+- Malware Research and Behavioral Analysis  
+- Development of Game Cheats and Security Evasion Techniques  
+- Proficient in C++, C#, and Python programming languages
 
 ---
 
-### Contact
+### Professional Contact
 
 - Discord: [astafofo](https://discord.com/users/927023306769588264)  
 - Email: notrealharly@gmail.com
 
 ---
 
-### Skills & Tools
+### Legal Disclaimer
 
-- Reverse Engineering  
-- Malware Research  
-- Cheat Development  
-- C++, C#, Python
-
----
-
-### Safety Notice
-
-All projects here are tested in virtual machine environments.  
-Please analyze code before running it. Recommended tools include ANY.RUN, Triage, and Intezer.
-
----
-
-### Disclaimer
-
-All malware and code are shared for educational and research purposes only.  
-I am not responsible for any misuse. Use at your own risk.
+All shared malware samples and code are intended solely for educational and research purposes.  
+Use responsibly. I disclaim any liability for misuse or damage resulting from these materials.
