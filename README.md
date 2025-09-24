@@ -19,10 +19,16 @@ Currently, I am expanding my focus to advanced cheat development and in-depth ex
 
 ### Tools & Technologies
 
-- IDA Pro, Ghidra, x64dbg, WinDbg  
-- Virtual Machines (VMware, VirtualBox)  
-- Static and Dynamic Analysis Tools  
-- Docker, Git, CI/CD Pipelines
+<p align="center">
+  <img src="https://img.shields.io/badge/IDA%20Pro-blue?style=for-the-badge" alt="IDA Pro" />
+  <img src="https://img.shields.io/badge/Ghidra-black?style=for-the-badge" alt="Ghidra" />
+  <img src="https://img.shields.io/badge/x64dbg-orange?style=for-the-badge" alt="x64dbg" />
+  <img src="https://img.shields.io/badge/WinDbg-blue?style=for-the-badge" alt="WinDbg" />
+  <img src="https://img.shields.io/badge/VMware-cyan?style=for-the-badge" alt="VMware" />
+  <img src="https://img.shields.io/badge/VirtualBox-lightblue?style=for-the-badge" alt="VirtualBox" />
+  <img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
 
 ---
 
@@ -43,8 +49,14 @@ Through responsible disclosure and education, I hope to contribute to a safer, m
 
 ### Professional Contact
 
-- Discord: [astafofo](https://discord.com/users/927023306769588264)  
-- Email: notrealharly@gmail.com
+<p align="center">
+  <a href="https://discord.com/users/927023306769588264" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-astafofo-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="mailto:notrealharly@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-notrealharly@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
 
