@@ -2,7 +2,7 @@
 
 Digital Archivist | Malware Analyst | Reverse Engineer | Game Cheat Developer
 
-I am Harly, a dedicated software researcher specializing in the collection and preservation of rare and legacy software.  
+I am Zap Harly, a dedicated software researcher specializing in the collection and preservation of rare and legacy software.  
 My expertise lies in reverse-engineering complex binaries, analyzing malware behaviors, and developing software that interacts deeply with system internals.  
 Currently, I am expanding my focus to advanced cheat development and in-depth exploration of Windows internals.
 
