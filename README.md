@@ -59,7 +59,7 @@ Through responsible disclosure and education, I hope to contribute to a safer, m
 
 ### Professional Contact
 
-- Discord: [Zap Harly ;](https://discord.com/users/927023306769588264)  
+- Discord: [Zap Harly](https://discord.com/users/927023306769588264)  
 - Email: notrealharly@gmail.com
 
 ---
