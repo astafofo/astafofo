@@ -14,14 +14,18 @@ I work at the boundary between software and intent.
 
 I don't use programs—I deconstruct them.
 
-### Focus Areas
+<h3 align="center">Focus Area </h3>
 
-- Windows Internals & Undocumented Behavior
-- Malware Analysis & Behavioral Tracing
-- Reverse Engineering Proprietary Binaries
-- Legacy Software Preservation
-- Low-Level Systems Research
+###
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp" height="20" alt="cpp"/> Reverse engineering and systems programming with C++<br>
+  <img src="https://skillicons.dev/icons?i=windows" height="20" alt="windows"/> Exploring Windows internals and system behavior<br>
+  <img src="https://skillicons.dev/icons?i=bug" height="20" alt="security"/> Malware analysis and debugging unknown binaries<br>
+  🧠 Studying legacy software and obscure system designs<br>
+  🔍 Focused on debugging, reverse engineering, and low-level research<br>
+  📚 Exploring old and undocumented software to understand how systems evolve<br>
+</p>
 ---
 
 <h3 align="center">🔗 Connect with me!</h3>
