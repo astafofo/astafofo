@@ -12,9 +12,9 @@ Reverse engineering, malware analysis, debugging unknown binaries, and legacy so
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp" height="20"/> Systems programming & reverse engineering with C++<br>
   <img src="https://skillicons.dev/icons?i=windows" height="20"/> Windows internals & behavior analysis<br>
-  <img src="https://skillicons.dev/icons?i=bug" height="20"/> Malware analysis & binary debugging<br>
-  🔍 Low-level system investigation & debugging<br>
-  📚 Legacy software & undocumented behavior research<br>
+  <img src="https://skillicons.dev/icons?i=linux" height="20"/> Low-level system investigation & debugging<br>
+  <img src="https://skillicons.dev/icons?i=git" height="20"/> Binary analysis, debugging workflows & tooling<br>
+  <img src="https://skillicons.dev/icons?i=github" height="20"/> Legacy software research & open-source exploration<br>
 </p>
 
 ---
