@@ -1,4 +1,3 @@
-````md
 <div align="center">
 
 ```bash
@@ -116,4 +115,3 @@ Everything is reversible given enough visibility.
 ┌──(researcher㉿system)-[~]
 └─$ logout
 ```
-````
