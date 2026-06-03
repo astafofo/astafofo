@@ -19,23 +19,41 @@ Reverse engineering, malware analysis, debugging unknown binaries, and legacy so
 
 ---
 
-<h3 align="center">🔗 Connect</h3>
+<h3 align="center">🔗 Connect with me!</h3>
 
 <p align="center">
   <a href="https://github.com/astafofo">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
   </a>
 
   <a href="https://discord.com/users/1158654757183959091">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+    <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white"/>
   </a>
 
   <a href="mailto:notrealharly@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/>
   </a>
 
   <a href="https://open.spotify.com/user/31pl3m4zhynwzxmxk5j4l3i5k7ae">
-    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/>
+    <img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=flat&logo=spotify&logoColor=white"/>
+  </a>
+
+  <br/>
+
+  <a href="https://stackoverflow.com">
+    <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-F58025?style=flat&logo=stackoverflow&logoColor=white"/>
+  </a>
+
+  <a href="https://dev.to">
+    <img alt="DEV" src="https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white"/>
+  </a>
+
+  <a href="https://gitlab.com">
+    <img alt="GitLab" src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white"/>
+  </a>
+
+  <a href="https://replit.com">
+    <img alt="Replit" src="https://img.shields.io/badge/Replit-667881?style=flat&logo=replit&logoColor=white"/>
   </a>
 </p>
 
