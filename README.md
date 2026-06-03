@@ -24,22 +24,13 @@ I don't use programs—I deconstruct them.
 
 ---
 
-<h3 align="center">🔗 Connect</h3>
+<h3 align="center">🔗 Connect with me!</h3>
 
 <p align="center">
-
-<a href="https://github.com/astafofo">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://discord.com/users/1158654757183959091">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
-
-<a href="mailto:notrealharly@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+  <a href="https://github.com/astafofo"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
+  <a href="https://discord.com/users/1158654757183959091"><img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white"/></a>
+  <a href="mailto:notrealharly@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://open.spotify.com/user/31pl3m4zhynwzxmxk5j4l3i5k7ae"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=flat&logo=spotify&logoColor=white"/></a>
 </p>
 
 ---
