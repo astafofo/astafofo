@@ -1,3 +1,6 @@
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=bre4d777\&data=followers,repositories,stars,commits\&theme=viridescent)](https://github.com/astatofo)
+
+
 ## 🍕 About Me
 
 <p align="center">
