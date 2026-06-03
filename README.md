@@ -47,11 +47,12 @@ I don't use programs—I deconstruct them.
 </p>
 
 <div align="center">
-<a href="https://discord.com/users/927023306769588264">
-  <img src="https://lanyard.cnrad.dev/api/927023306769588264?theme=dark&showDisplayName=true" />
-</a>
-</div>
 
+<a href="https://discord.com/users/927023306769588264">
+  <img src="https://lanyard.cnrad.dev/api/927023306769588264?theme=dark&showDisplayName=true&bg=000000" />
+</a>
+
+</div>
 ---
 
 <h3 align="center">🖥️ Toolkit</h3>
