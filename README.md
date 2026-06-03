@@ -1,13 +1,3 @@
-<div align="center">
-
-# Reverse Engineer • Malware Analyst • Systems Researcher
-
-<img src="https://komarev.com/ghpvc/?username=astafofo&style=for-the-badge" />
-
-</div>
-
----
-
 ## 🚀 About
 
 <p align="center">
