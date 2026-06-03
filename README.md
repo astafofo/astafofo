@@ -36,7 +36,7 @@ I don't use programs—I deconstruct them.
 ---
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,java,python,linux,windows,git,github,visualstudio,vscode,discord,nodejs,html,js,css" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,java,python,javascript,typescript,php,go,rust,swift,kotlin,html,css,linux,windows,git,github,visualstudio,vscode,nodejs,docker,discord" />
 </div>
 
 ---
