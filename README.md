@@ -35,6 +35,8 @@ I don't use programs—I deconstruct them.
 
 ---
 
+<h3 align="center">🖥️ Tech Stack</h3>
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp,cs,java,python,javascript,typescript,php,go,rust,swift,kotlin,html,css,linux,windows,git,github,visualstudio,vscode,nodejs,docker,discord" />
 </div>
