@@ -38,25 +38,7 @@ I don't use programs—I deconstruct them.
 <h3 align="center">🖥️ Tech Stack</h3>
 
 <div align="center">
-
-<!-- Core Languages -->
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<!-- Systems / Security -->
-<img src="https://img.shields.io/badge/Windows_Internals-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-<img src="https://img.shields.io/badge/Reverse_Engineering-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Malware_Analysis-8B0000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Low_Level_Systems-2F4F4F?style=for-the-badge"/>
-
-<!-- Tools -->
-<img src="https://img.shields.io/badge/IDA_Pro-1E1E1E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Ghidra-FF4500?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/x64dbg-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/WinDbg-0078D6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Procmon-4B5563?style=for-the-badge"/>
-
+  <img src="https://skillicons.dev/icons?i=cpp,cs,python,linux,docker,git,github,vscode,windows,arduino,raspberrypi,kali,nginx,mysql,mongodb,redis,html,css,js,nodejs,php,laravel,express,bash,postman,figma" />
 </div>
 
 ---
