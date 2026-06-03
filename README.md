@@ -21,7 +21,7 @@ Reverse engineering, malware analysis, debugging unknown binaries, and legacy so
 <h3 align="center">🔗 Connect with me!</h3>
 
 <p align="center">
-  <a href="https://instagram.com/YOUR_USERNAME">
+  <a href="https://instagram.com/notreal.harly">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
   </a>
 
@@ -29,25 +29,21 @@ Reverse engineering, malware analysis, debugging unknown binaries, and legacy so
     <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white"/>
   </a>
 
-  <a href="https://x.com/YOUR_USERNAME">
+  <a href="https://x.com/notrealharly">
     <img alt="X" src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white"/>
   </a>
 
-  <a href="https://linkedin.com/in/YOUR_USERNAME">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:notreal.harly@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
 
   <br/>
 
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/astafofo">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
   </a>
 
-  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_ID">
+  <a href="https://open.spotify.com/user/31pl3m4zhynwzxmxk5j4l3i5k7ae">
     <img alt="Spotify" src="https://img.shields.io/badge/Spotify-1DB954?style=flat&logo=spotify&logoColor=white"/>
   </a>
 </p>
