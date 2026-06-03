@@ -67,11 +67,8 @@ I don't use programs—I deconstruct them.
 <h3 align="center">🎧 Music</h3>
 
 <div align="center">
-  <a href="https://open.spotify.com/user/31pl3m4zhynwzxmxk5j4l3i5k7ae">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31pl3m4zhynwzxmxk5j4l3i5k7ae&count=5&unique=false" alt="Spotify recently played" />
-  </a>
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31pl3m4zhynwzxmxk5j4l3i5k7ae" alt="Spotify recently played" />
 </div>
-
 ---
 
 <h3 align="center">📊 Statistics</h3>
