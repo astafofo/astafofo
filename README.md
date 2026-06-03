@@ -47,7 +47,9 @@ I don't use programs—I deconstruct them.
 </p>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=astafofo&show_icons=true&theme=dark&hide_border=true" />
+  <a href="https://discord.com/users/1158654757183959091">
+    <img src="https://lanyard.cnrad.dev/api/1158654757183959091?theme=dark&showDisplayName=true" />
+  </a>
 </div>
 ---
 
