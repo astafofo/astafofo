@@ -18,45 +18,39 @@ Reverse engineering, malware analysis, debugging unknown binaries, and legacy so
 </p>
 
 ---
-
 <h3 align="center">🔗 Connect with me!</h3>
 
 <p align="center">
-  <a href="https://github.com/astafofo">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  <a href="https://instagram.com/YOUR_USERNAME">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
   </a>
 
   <a href="https://discord.com/users/1158654757183959091">
     <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white"/>
   </a>
 
-  <a href="mailto:notrealharly@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/>
+  <a href="https://x.com/YOUR_USERNAME">
+    <img alt="X" src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white"/>
   </a>
 
-  <a href="https://open.spotify.com/user/31pl3m4zhynwzxmxk5j4l3i5k7ae">
-    <img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=flat&logo=spotify&logoColor=white"/>
+  <a href="https://linkedin.com/in/YOUR_USERNAME">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
 
   <br/>
 
-  <a href="https://stackoverflow.com">
-    <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-F58025?style=flat&logo=stackoverflow&logoColor=white"/>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
   </a>
 
-  <a href="https://dev.to">
-    <img alt="DEV" src="https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white"/>
-  </a>
-
-  <a href="https://gitlab.com">
-    <img alt="GitLab" src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white"/>
-  </a>
-
-  <a href="https://replit.com">
-    <img alt="Replit" src="https://img.shields.io/badge/Replit-667881?style=flat&logo=replit&logoColor=white"/>
+  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_ID">
+    <img alt="Spotify" src="https://img.shields.io/badge/Spotify-1DB954?style=flat&logo=spotify&logoColor=white"/>
   </a>
 </p>
-
 ---
 
 <h3 align="center">🖥️ Tech Stack</h3>
