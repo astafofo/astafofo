@@ -16,11 +16,11 @@ I don't use programs—I deconstruct them.
 
 ### Focus Areas
 
-* Windows Internals & Undocumented Behavior
-* Malware Analysis & Behavioral Tracing
-* Reverse Engineering Proprietary Binaries
-* Legacy Software Preservation
-* Low-Level Systems Research
+- Windows Internals & Undocumented Behavior
+- Malware Analysis & Behavioral Tracing
+- Reverse Engineering Proprietary Binaries
+- Legacy Software Preservation
+- Low-Level Systems Research
 
 ---
 
@@ -29,35 +29,42 @@ I don't use programs—I deconstruct them.
 <p align="center">
 
 <a href="https://github.com/astafofo">
-<img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://discord.com/users/927023306769588264">
-<img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white"/>
+<a href="https://discord.com/users/1158654757183959091">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
 <a href="mailto:notrealharly@gmail.com">
-<img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://open.spotify.com/user/31pl3m4zhynwzxmxk5j4l3i5k7ae">
-<img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=flat&logo=spotify&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
-<div align="center">
-  <a href="https://discord.com/users/1158654757183959091">
-    <img src="https://lanyard.cnrad.dev/api/1158654757183959091?theme=dark&showDisplayName=true" />
-  </a>
-</div>
 ---
 
-<h3 align="center">🖥️ Toolkit</h3>
+<h3 align="center">🖥️ Tech Stack</h3>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,cs,python,linux,docker,git,github,vscode" />
+<!-- Core Languages -->
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<!-- Systems / Security -->
+<img src="https://img.shields.io/badge/Windows_Internals-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/Reverse_Engineering-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Malware_Analysis-8B0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Low_Level_Systems-2F4F4F?style=for-the-badge"/>
+
+<!-- Tools -->
+<img src="https://img.shields.io/badge/IDA_Pro-1E1E1E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ghidra-FF4500?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/x64dbg-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/WinDbg-0078D6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Procmon-4B5563?style=for-the-badge"/>
 
 </div>
 
@@ -66,16 +73,25 @@ I don't use programs—I deconstruct them.
 <h3 align="center">🎧 Music</h3>
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31pl3m4zhynwzxmxk5j4l3i5k7ae" alt="Spotify recently played" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31pl3m4zhynwzxmxk5j4l3i5k7ae" />
 </div>
+
 ---
 
 <h3 align="center">📊 Statistics</h3>
 
 <div align="center">
+  <img src="https://count.getloli.com/@:astafofo?name=%3Aastafofo&theme=booru-lewd&padding=7&offset=0&align=top&scale=1" />
+</div>
 
-<img src="https://count.getloli.com/@:astafofo?name=%3Aastafofo&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto"/>
+---
 
+<h3 align="center">🎮 Discord</h3>
+
+<div align="center">
+  <a href="https://discord.com/users/1158654757183959091">
+    <img src="https://img.shields.io/badge/Discord-Click_to_Connect-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
 </div>
 
 ---
