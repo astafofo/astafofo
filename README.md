@@ -1,4 +1,4 @@
-## 🍕☃️ About Me
+## 🍕 About Me
 
 <p align="center">
 Focused on system internals, binary analysis, and software behavior at a low level.<br>
