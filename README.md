@@ -67,9 +67,14 @@ Reverse engineering, malware analysis, debugging unknown binaries, and legacy so
 
 ---
 
-## 💡 Philosophy
+<h3 align="center">📊 Statistics</h3>
 
-<p align="center">
-"If you can't read the system, you don't understand it."<br>
-Everything is reversible given enough visibility.
-</p>
+<div align="center">
+  <img src="https://count.getloli.com/@:astafofo?name=%3Aastafofo&theme=booru-lewd&padding=7&offset=0&align=top&scale=1" />
+</div>
+
+---
+
+
+<h3 align="center">🔍 Philosophy</h3>
+<p align="center"> "If you can't read the system, you don't understand it."<br> Everything is reversible given enough visibility. </p>
