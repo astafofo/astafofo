@@ -2,7 +2,7 @@
 
 # Reverse Engineer • Malware Analyst • Systems Researcher
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=astafofo&style=for-the-badge" />
 
 </div>
 
@@ -36,7 +36,6 @@ I don't use programs—I deconstruct them.
 <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white"/>
 </a>
 
-
 <a href="mailto:notrealharly@gmail.com">
 <img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/>
 </a>
@@ -49,7 +48,7 @@ I don't use programs—I deconstruct them.
 
 <div align="center">
 <a href="https://discord.com/users/927023306769588264">
-  <img src="https://lanyard.cnrad.dev/api/YOUR_DISCORD_ID?theme=dark&showDisplayName=true" />
+  <img src="https://lanyard.cnrad.dev/api/927023306769588264?theme=dark&showDisplayName=true" />
 </a>
 </div>
 
@@ -65,21 +64,21 @@ I don't use programs—I deconstruct them.
 
 ---
 
-## Music
+<h3 align="center">🎧 Music</h3>
 
 <div align="center">
-
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_ID&count=5"/>
-
+  <a href="https://open.spotify.com/user/31pl3m4zhynwzxmxk5j4l3i5k7ae">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31pl3m4zhynwzxmxk5j4l3i5k7ae&count=5&unique=false" alt="Spotify recently played" />
+  </a>
 </div>
 
 ---
 
-## Statistics
+<h3 align="center">📊 Statistics</h3>
 
 <div align="center">
 
-<img src="https://count.getloli.com/@:YOUR_USERNAME?name=%3AYOUR_USERNAME&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto"/>
+<img src="https://count.getloli.com/@:astafofo?name=%3Aastafofo&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto"/>
 
 </div>
 
