@@ -24,22 +24,42 @@ I don't use programs—I deconstruct them.
 
 ---
 
-## Toolkit
+<h3 align="center">🔗 Connect</h3>
+
+<p align="center">
+
+<a href="https://github.com/astafofo">
+<img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://discord.com/users/927023306769588264">
+<img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white"/>
+</a>
+
+
+<a href="mailto:notrealharly@gmail.com">
+<img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://open.spotify.com/user/31pl3m4zhynwzxmxk5j4l3i5k7ae">
+<img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=flat&logo=spotify&logoColor=white"/>
+</a>
+
+</p>
+
+<div align="center">
+<a href="https://discord.com/users/927023306769588264">
+  <img src="https://lanyard.cnrad.dev/api/YOUR_DISCORD_ID?theme=dark&showDisplayName=true" />
+</a>
+</div>
+
+---
+
+<h3 align="center">🖥️ Toolkit</h3>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/IDA_Pro-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Ghidra-C62828?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/x64dbg-0F172A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/WinDbg-0078D6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Procmon-4B5563?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=cpp,cs,python,linux,docker,git,github,vscode" />
 
 </div>
 
@@ -49,7 +69,7 @@ I don't use programs—I deconstruct them.
 
 <div align="center">
 
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=SPOTIFY_USER_ID&count=5"/>
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_ID&count=5"/>
 
 </div>
 
