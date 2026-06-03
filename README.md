@@ -84,14 +84,6 @@ I don't use programs—I deconstruct them.
 
 <h3 align="center">🎮 Games</h3>
 
-<br>
-
-<div align="center">
-<img src="https://starlightskins.lunareclipse.studio/render/wallpaper/herobrine_hill/YOUR_MINECRAFT_NAME" />
-</div>
-
----
-
 <div align="center">
 <img src="https://count.getloli.com/@:YOUR_USERNAME?name=%3AYOUR_USERNAME&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto"/>
 </div>
