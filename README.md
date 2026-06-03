@@ -54,7 +54,7 @@ Reverse engineering, malware analysis, debugging unknown binaries, and legacy so
 <h3 align="center">🖥️ Tech Stack</h3>
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=cpp,cs,java,python,javascript,typescript,go,rust,kotlin,php,html,css,linux,windows,git,github,visualstudio,vscode,nodejs,docker,discord,mysql,mongodb,redis,nginx,bash,postman" /></div>
+<img src="https://skillicons.dev/icons?i=cpp,cs,java,python,javascript,typescript,go,rust,bun,php,html,css,linux,windows,git,github,visualstudio,vscode,nodejs,docker,discord,mysql,mongodb,sqlite,vercel,bash,cloudflare,kali,bootstrap" /></div>
 
 ---
 
