@@ -4,7 +4,7 @@
 ```bash
 ┌──(researcher㉿system)-[~]
 └─$ whoami
-````
+```
 
 # Reverse Engineer • Malware Analyst • Systems Researcher
 
@@ -27,11 +27,11 @@ I don't use programs—I deconstruct them.
 
 ### Focus Areas
 
-* Windows Internals & Undocumented Behavior
-* Malware Analysis & Behavioral Tracing
-* Reverse Engineering Proprietary Binaries
-* Legacy Software Preservation
-* Low-Level Systems Research
+- Windows Internals & Undocumented Behavior
+- Malware Analysis & Behavioral Tracing
+- Reverse Engineering Proprietary Binaries
+- Legacy Software Preservation
+- Low-Level Systems Research
 
 ---
 
@@ -61,59 +61,6 @@ I don't use programs—I deconstruct them.
 
 ---
 
-## GitHub Stats
-
-```bash
-┌──(researcher㉿system)-[~]
-└─$ github-stats
-```
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## Contribution Graph
-
-```bash
-┌──(researcher㉿system)-[~]
-└─$ contributions
-```
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-## Trophies
-
-```bash
-┌──(researcher㉿system)-[~]
-└─$ achievements
-```
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&column=6"/>
-
-</div>
-
----
-
 ## Music
 
 ```bash
@@ -129,17 +76,25 @@ I don't use programs—I deconstruct them.
 
 ---
 
-## Gaming
+## Games
 
 ```bash
 ┌──(researcher㉿system)-[~]
 └─$ games
 ```
 
+<h3 align="center">🎮 Games</h3>
+
+<br>
+
 <div align="center">
+<img src="https://starlightskins.lunareclipse.studio/render/wallpaper/herobrine_hill/YOUR_MINECRAFT_NAME" />
+</div>
 
-<img src="https://starlightskins.lunareclipse.studio/render/default/YOUR_MINECRAFT_NAME"/>
+---
 
+<div align="center">
+<img src="https://count.getloli.com/@:YOUR_USERNAME?name=%3AYOUR_USERNAME&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto"/>
 </div>
 
 ---
@@ -161,6 +116,4 @@ Everything is reversible given enough visibility.
 ┌──(researcher㉿system)-[~]
 └─$ logout
 ```
-
-```
-```
+````
