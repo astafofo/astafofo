@@ -1,5 +1,4 @@
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=astatofo\&data=followers,repositories,stars,commits\&theme=viridescent)](https://github.com/astatofo)
-
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=astafofo&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/astafofo)
 
 ## 🍕 About Me
 
