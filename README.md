@@ -1,10 +1,5 @@
 <div align="center">
 
-```bash
-┌──(researcher㉿system)-[~]
-└─$ whoami
-```
-
 # Reverse Engineer • Malware Analyst • Systems Researcher
 
 <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge" />
@@ -15,31 +10,21 @@
 
 ## About
 
-```bash
-┌──(researcher㉿system)-[~]
-└─$ cat about.txt
-```
-
 I work at the boundary between software and intent.
 
 I don't use programs—I deconstruct them.
 
 ### Focus Areas
 
-- Windows Internals & Undocumented Behavior
-- Malware Analysis & Behavioral Tracing
-- Reverse Engineering Proprietary Binaries
-- Legacy Software Preservation
-- Low-Level Systems Research
+* Windows Internals & Undocumented Behavior
+* Malware Analysis & Behavioral Tracing
+* Reverse Engineering Proprietary Binaries
+* Legacy Software Preservation
+* Low-Level Systems Research
 
 ---
 
 ## Toolkit
-
-```bash
-┌──(researcher㉿system)-[~]
-└─$ ls toolkit/
-```
 
 <div align="center">
 
@@ -62,11 +47,6 @@ I don't use programs—I deconstruct them.
 
 ## Music
 
-```bash
-┌──(researcher㉿system)-[~]
-└─$ spotify --recent
-```
-
 <div align="center">
 
 <img src="https://spotify-recently-played-readme.vercel.app/api?user=SPOTIFY_USER_ID&count=5"/>
@@ -75,35 +55,18 @@ I don't use programs—I deconstruct them.
 
 ---
 
-## Games
-
-```bash
-┌──(researcher㉿system)-[~]
-└─$ games
-```
-
-<h3 align="center">Statistics</h3>
+## Statistics
 
 <div align="center">
+
 <img src="https://count.getloli.com/@:YOUR_USERNAME?name=%3AYOUR_USERNAME&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto"/>
+
 </div>
 
 ---
 
 ## Philosophy
 
-```bash
-┌──(researcher㉿system)-[~]
-└─$ philosophy
-```
-
-> "If you can't read the system, you don't understand it."
+> *"If you can't read the system, you don't understand it."*
 
 Everything is reversible given enough visibility.
-
----
-
-```bash
-┌──(researcher㉿system)-[~]
-└─$ logout
-```
