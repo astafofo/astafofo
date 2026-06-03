@@ -1,6 +1,5 @@
 <a href="https://app.daily.dev/astafofo"><img src="https://api.daily.dev/devcards/v2/Inzuv4wr3D5T9QTqjFexr.png?type=wide&r=2de" width="652" alt="Astafofo Dev Card"/></a>
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=astafofo&data=followers,repositories,stars,commits&theme=tokyonight)](https://github.com/astafofo)
-
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=astafofo&data=followers,repositories,stars,commits&theme=dark)](https://github.com/astafofo)
 ## 🍕 About Me
 
 <p align="center">
